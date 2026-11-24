@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "PostgreSqlV2",
 		"typeProperties": {
-			"server": "ep-aged-mode-betvzeyt-pooler.c-9.us-east-2.aws.neon.tech",
+			"server": "ep-lively-leaf-be2e60ia-pooler.c-9.us-east-2.aws.neon.tech",
 			"port": 5432,
 			"database": "neondb",
 			"username": "neondb_owner",
