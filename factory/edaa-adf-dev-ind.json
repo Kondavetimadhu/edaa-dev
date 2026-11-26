@@ -1,0 +1,16 @@
+{
+	"name": "edaa-adf-dev-ind",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bb27c05-5a92-4e0d-9e83-1de873d54f96",
+		"tenantId": "f778e132-d0d4-4e53-9de6-1e37b475e026"
+	}
+}
